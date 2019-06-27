@@ -1,0 +1,8 @@
+E:\Study\CSharp\BinaryTool\BinaryTool\BinaryTool\bin\Debug\BinaryTool.exe
+E:\Study\CSharp\BinaryTool\BinaryTool\BinaryTool\bin\Debug\BinaryTool.pdb
+E:\Study\CSharp\BinaryTool\BinaryTool\BinaryTool\obj\Debug\BinaryTool.csprojResolveAssemblyReference.cache
+E:\Study\CSharp\BinaryTool\BinaryTool\BinaryTool\obj\Debug\BinaryTool.Main.resources
+E:\Study\CSharp\BinaryTool\BinaryTool\BinaryTool\obj\Debug\BinaryTool.Properties.Resources.resources
+E:\Study\CSharp\BinaryTool\BinaryTool\BinaryTool\obj\Debug\BinaryTool.csproj.GenerateResource.Cache
+E:\Study\CSharp\BinaryTool\BinaryTool\BinaryTool\obj\Debug\BinaryTool.exe
+E:\Study\CSharp\BinaryTool\BinaryTool\BinaryTool\obj\Debug\BinaryTool.pdb
